@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+ultralytics
+easyocr
+mediapipe
+crewai
+langchain-groq
+groq
+scikit-fuzzy
+plotly
+pandas
+numpy
+pillow
+python-dotenv
